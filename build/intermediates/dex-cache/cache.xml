@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\RAY\Desktop\Android\TGStreamDemo_MindWaveMobile\libs\libStreamSDK_v1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="033b7351fc2173a9ac8e82a355c877495759eb67">
+        <dex dex="C:\Users\RAY\Desktop\Android\TGStreamDemo_MindWaveMobile\build\intermediates\pre-dexed\debug\libStreamSDK_v1.2.0_8ce4f8b7f0dbeb041476e260e8faa2fa8eb465c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RAY\Desktop\Android\TGStreamDemo_MindWaveMobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6870a1f638b45c15b66cdea63c3315436ec4607e">
+        <dex dex="C:\Users\RAY\Desktop\Android\TGStreamDemo_MindWaveMobile\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7446a1be0995d6fb0ee1ad52fb3e4aa141218e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RAY\Desktop\Android\TGStreamDemo_MindWaveMobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce8e86bb4ee67ef85b88251f3c893f7a11325358">
+        <dex dex="C:\Users\RAY\Desktop\Android\TGStreamDemo_MindWaveMobile\build\intermediates\pre-dexed\debug\instant-run_d944cfc283bdcc1e32ea40ebd2186443cab82219.jar" />
+    </item>
+
+</items>
